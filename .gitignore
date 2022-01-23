@@ -1,3 +1,4 @@
-./logs
-./idea
-./target
+logs/
+.idea/
+target/
+JAVA-LIBRARY.iml

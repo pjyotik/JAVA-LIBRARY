@@ -1,4 +1,4 @@
-package pjyotik.helpers;
+package com.learning.pjyotik.helpers;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
  * @author Pranob Kalita
  * @project_name JAVA-LIBRARY
  * @date 9/12/2021
- * @package_name pjyotik.helpers
+ * @package_name com.learning.pjyotik.helpers
  */
 public class ExcelHelperTest {
 
